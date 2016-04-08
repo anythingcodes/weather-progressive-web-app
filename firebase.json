@@ -1,0 +1,9 @@
+{
+  "firebase": "google-pwa",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
